@@ -1,0 +1,12 @@
+Engine.bible License
+Copyright (c) 2025 Michael Huo
+
+Permission to use, copy, modify, and/or distribute this software is granted only with explicit written authorization from Michael Huo. To request authorization, please open an issue at https://github.com/michaelhuo/engine.bible/issues (preferred) or contact michaelhuo [at] michaelhuo [dot] com. Unauthorized use, including unsolicited contact or spam, is strictly prohibited. Authorized users must distribute any derivative works under the same terms, subject to the author's approval. The author reserves the right to deny authorization to entities whose beliefs conflict with orthodox Christian doctrine, as determined by the author.
+
+Bible text data included in this repository includes:
+- Chinese Union Version Simplified (CUVS), Chinese Union Version Traditional (CUVT), King James Version (KJV), and Pinyin, which are in the public domain.
+- New American Standard Bible (NASB), used with permission from The Lockman Foundation. Users must comply with The Lockman Foundation's terms for NASB usage (see https://www.lockman.org/nasb-permissions/).
+
+Other Bible translations (e.g., ESV, NCVS, LCVS, CCSB, CLBS, CKJVS, CKJVT, UKJV, KJV1611, BBE) are not hosted in this repository but linked to external websites. Users must comply with the respective licenses of these translations when accessing them via provided links.
+
+This license applies to the software code and included Bible text data, and does not affect the licensing of external data or dependencies.
